@@ -1,10 +1,10 @@
+# Current version: 
+pod-2021-12-15
+
 # Required third-party packages:
 * numpy
 * matplotlib
 * pandas
-
-# Current version: 
-pod-2021-12-15
 
 # Modules:
 * cmn
