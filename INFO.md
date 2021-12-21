@@ -1,5 +1,5 @@
 # Current version: 
-pod-2021-12-15
+pod-2021-12-21
 
 # Required third-party packages:
 * numpy
@@ -9,12 +9,10 @@ pod-2021-12-15
 # Modules:
 * cmn
 * graph
-* prop
 * mset
 
 # Test cases:
-* test2
-
-# Input txt files:
-* path
-* batch
+* TEST2
+* TEST3
+* BATCH
+* VALID
