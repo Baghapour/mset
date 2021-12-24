@@ -1,7 +1,7 @@
 # Current version: 
 pod-2021-12-24
 
-# Required third-party packages:
+# Required packages:
 * numpy
 * matplotlib
 * pandas
