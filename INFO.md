@@ -12,8 +12,8 @@ pod-2021-12-24
 * mset
 
 # Test cases:
+* TEST
 * TEST2
-* TEST3
 * BATCH1
 * BATCH2
 * VALID
