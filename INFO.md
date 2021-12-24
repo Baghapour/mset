@@ -1,5 +1,5 @@
 # Current version: 
-pod-2021-12-21
+pod-2021-12-24
 
 # Required third-party packages:
 * numpy
@@ -14,5 +14,6 @@ pod-2021-12-21
 # Test cases:
 * TEST2
 * TEST3
-* BATCH
+* BATCH1
+* BATCH2
 * VALID
