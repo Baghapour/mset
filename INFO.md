@@ -1,19 +1,19 @@
 # Current version: 
-pod-2021-12-24
+pod-2022-01-12
 
 # Required packages:
 * numpy
 * matplotlib
 * pandas
+* inspect
+* itertools
 
 # Modules:
-* cmn
+* shared
 * graph
-* mset
+* podec
+* batch
+* prp[
 
 # Test cases:
-* TEST
-* TEST2
-* BATCH1
-* BATCH2
-* VALID
+* test-pnat
