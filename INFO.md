@@ -13,7 +13,7 @@ pod-2022-01-12
 * graph
 * podec
 * batch
-* prp[
+* prop
 
 # Test cases:
 * test-pnat
